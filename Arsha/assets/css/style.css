@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #dfa507;
   text-decoration: none;
 }
 
@@ -994,7 +994,7 @@ section {
 }
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover, .portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #47b2e4;
+  color: #aa9b17;
 }
 
 .portfolio .portfolio-item .portfolio-info .details-link {
@@ -1423,7 +1423,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #6182ba;
+  color: #aa9b17;
 }
 
 .contact .info .email p {
@@ -1730,7 +1730,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #47b2e4;
+  color: #aa9b17;
   font-size: 18px;
   line-height: 1;
 }
@@ -1754,7 +1754,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #47b2e4;
+  color: #aa9b17;
 }
 
 #footer .footer-top .social-links a {
