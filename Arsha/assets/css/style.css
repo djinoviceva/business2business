@@ -1174,6 +1174,11 @@ section {
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
+.pricing{
+  background: linear-gradient(rgba(249, 194, 46, 0.9), rgba(249, 194, 46, 0.9)), url("../img/cta-bg.jpg") fixed center center;
+  background-size: cover;
+  padding: 120px 0;
+}
 .pricing .row {
   padding-top: 40px;
 }
@@ -1296,6 +1301,7 @@ section {
     margin: 0 auto 30px auto;
   }
 }
+
 
 /*--------------------------------------------------------------
 # Frequently Asked Questions
